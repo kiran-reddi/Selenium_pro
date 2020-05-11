@@ -16,6 +16,7 @@ public class MyFirstClass {
 		driver.get("https://www.google.com/");
 
 		driver.get("http://practice.automationtesting.in/");
+	//this line written by ravi
 
 	}
 
