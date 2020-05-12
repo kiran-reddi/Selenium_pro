@@ -16,7 +16,7 @@ public class MyFirstClass {
 		driver.get("https://www.google.com/");
 
 		driver.get("http://practice.automationtesting.in/");
-
+		//typed on 05122020
 	}
 
 }
